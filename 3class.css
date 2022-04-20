@@ -1,0 +1,26 @@
+#b{
+    color: blueviolet;
+    font-size :100px;
+    text-shadow: 10px 20px 20px purple;
+}
+div {
+text-align :center;
+color: blue;
+}
+.lab
+{
+    font-size: 100px;
+    color:red;
+    font-weight: bold;
+}
+#a
+{
+    color: pink;
+    font-size:100px;
+font-weight: bold;
+}
+body 
+{
+  background-image: url('prodiand.png');
+}
+     
